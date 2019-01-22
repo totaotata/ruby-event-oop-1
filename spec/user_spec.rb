@@ -16,5 +16,4 @@ describe User do
       expect(user.class).to eq(User)
 		end
 	end
-
 end
